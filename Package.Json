@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Daily Sayri",
+    "slug": "daily-sayri",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.dailysayri.app"
+    }
+  }
+}
